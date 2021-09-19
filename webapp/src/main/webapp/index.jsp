@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To Javaapp</h1>
+<h1>Welcome To Javaapplication</h1>
 </body>
 <body style="color:red;">
  <div class="container">
